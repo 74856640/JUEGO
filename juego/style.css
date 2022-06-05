@@ -1,0 +1,21 @@
+
+p{
+	font-family: sans-serif;
+	color: white;
+}
+
+.cal{
+	text-align: center;
+	font-size: 25px;
+	color: black;
+}
+
+input{
+    color: black;
+    font-weight: 700;
+}
+
+.buttn{
+    color: white;
+    text-align: center;
+}
